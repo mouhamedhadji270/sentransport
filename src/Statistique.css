@@ -1,0 +1,14 @@
+.statistique {
+  background-color: #d7d6d6;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 8px;
+  width: 150px;
+}
+
+.stat-chiffre {
+  font-size: 24px;
+  font-weight: bold;
+}
+
